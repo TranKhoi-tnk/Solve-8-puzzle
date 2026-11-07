@@ -1,6 +1,6 @@
 """
-- Riêng Time (ms) phụ thuộc phần cứng, CPU nên KHÔNG thể giống tuyệt
-  đối giữa các máy. Để giảm nhiễu, thời gian được lấy trung bình của nhiều lần chạy.
+Riêng Time (ms) phụ thuộc phần cứng, CPU nên KHÔNG thể giống tuyệt
+đối giữa các máy.
 """
 import heapq
 import time
